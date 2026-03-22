@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm an experienced Statistical Programmer in Clinical Research <br>and Biostatistics within the pharmaceutical industry, <br>currently working at <br>Pfizer Healthcare India Private Limited
+- 📈 Passionate about **data analysis, statistical modeling, and insights**
+- 🧠 Interested in **data-driven decision making**
+- 🛠️ Love working on real-world problems using data
+- 🌱 Continuously learning and improving my craft
 
 
 ## 🌐 Socials:
@@ -48,10 +51,7 @@ Here are some ideas to get you started:
 
 ## 🚀 About Me
 
-- 📈 Passionate about **data analysis, statistical modeling, and insights**
-- 🧠 Interested in **data-driven decision making**
-- 🛠️ Love working on real-world problems using data
-- 🌱 Continuously learning and improving my craft
+
 
 ---
 
