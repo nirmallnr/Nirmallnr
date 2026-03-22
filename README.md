@@ -38,11 +38,6 @@
 [![](https://visitcount.itsvg.in/api?id=Nirmallnr&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-
-![Lokesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
-
 ⭐ *Feel free to explore my repositories and reach out for collaboration!*
 
 
