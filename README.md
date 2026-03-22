@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lokesh Nirmal Raja
 
-### 📊 Associate Statistical Data Scientist | Chennai
+### 📊 Statistical Data Scientist | Chennai
 # 💫 About Me:
 - 📈 Passionate about **data analysis, statistical modeling, and insights**
 - 🧠 Interested in **data-driven decision making**
