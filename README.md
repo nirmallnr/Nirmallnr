@@ -103,6 +103,29 @@ https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail](mailto
 
 
 
+🧰 Tech Stack
+💻 Programming Languages
+https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c
+https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus
+https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
+
+📊 Data Science & Analytics
+https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas
+https://img.shields.io/badge/SAS-1E4C2B?style=for-the-badge&logo=sas
+https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy
+https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn
+
+🧑‍💻 Tools & Platforms
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github
+https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal
+https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows
+
+🎨 Design & Creative Tools
+https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop
+https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva
+
+
+
 
 
 
